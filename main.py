@@ -330,7 +330,6 @@ class AplicacaoPizzaria:
 
     # --- FUNÇÕES DE ATUALIZAÇÃO DINÂMICA ---
     def carregar_catalogo_ui(self):
-        """Opção B: Atualiza a tabela dinamicamente com base no tamanho atualmente selecionado no Combobox."""
         tamanho_sel = self.cmb_tamanho.get()
 
         for i in self.tree_catalogo.get_children():
