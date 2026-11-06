@@ -102,9 +102,3 @@ python3 main.py
 
 ---
 
-## 📄 Documentação Acadêmica (PMBOK®)
-
-Este repositório contém a suíte completa dos entregáveis de gestão do projeto conforme o PMBOK®:
-* **Projeto 1:** TAP, Registro de Stakeholders, Ciclo de Vida Incremental/Ágil e EAP Inicial.
-* **Projeto 2:** Declaração de Escopo Refinada, Dicionário da EAP, Cronograma e Linha de Base de Custos (76h / R$ 2.635,00).
-* **Projeto 3:** Status Report, Registro de Mudanças (CR-01 e CR-02), Termo de Aceite Formal, Relatório Final e Registro de Lições Aprendidas.
